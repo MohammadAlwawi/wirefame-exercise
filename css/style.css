@@ -26,9 +26,12 @@
     margin-right: 10%;
     margin-top: 4%;
   }
+  a {
+    color:  gray;
+  }
   
   li {
-      color:darkgray;
+    color:darkgray;
    display: inline-flex;
     padding: 0px;
     margin-left: 30px;
